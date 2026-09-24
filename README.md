@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @philpaz
-- 👀 I’m interested in guitars and motocross.
-- 🌱 I’m continously learning.
-- 💞️ I’m looking to collaborate on java based projects.
-- 📫 How to reach me philip.paz@gmail.com
+### Philip Paz
 
-<!---
-philpaz/philpaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I build deterministic guardrails for AI agents: a hand on the reins
+when an agent acts on its own.
+
+**[Recusal](https://github.com/philpaz/recusal)** is an open-source gate that checks
+the evidence before an AI agent's tool call runs. Allow, retry, or refuse.
+No model in the decision, same evidence, same verdict.
+
+```
+pip install recusal
+recusal demo
+```
+
+Background in financial services and regulated data, where "why was this
+allowed, and can you prove it?" is the question that matters.
+
+Contributions are welcome. The [good first issues](https://github.com/philpaz/recusal/issues)
+are a friendly place to start.
