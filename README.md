@@ -17,3 +17,5 @@ allowed, and can you prove it?" is the question that matters.
 
 Contributions are welcome. The [good first issues](https://github.com/philpaz/recusal/issues)
 are a friendly place to start.
+
+[LinkedIn](https://www.linkedin.com/in/philippaz/)
