@@ -1,0 +1,7 @@
+$ recusal check philip-paz
+evidence  20 years in financial services and regulated data  PASS
+evidence  builds deterministic guardrails for AI agents      PASS
+evidence  guitars, motocross                                 PASS
+claim     "10x engineer"                                     REFUSE  no evidence provided
+claim     "AI agents should act with no one watching"        REFUSE  hand stays on the reins
+verdict   ALLOW (human in the loop)
